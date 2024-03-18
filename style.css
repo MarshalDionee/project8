@@ -1,0 +1,9 @@
+img{
+    height:500px;
+    width:500px;
+    display: block;
+}
+#on,#off{
+    margin-top: 20px;
+    margin-right: 20px;
+}
